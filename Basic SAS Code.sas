@@ -1,4 +1,4 @@
-title "RamaVaishnavi Pemmaraju, UIN - 653057686, HW1";
+title "RamaVaishnavi Pemmaraju";
 
 ods pdf file = "/folders/myfolders/mystudy1/Problem_1.pdf";
 DATA TRANSACTIONS1;
